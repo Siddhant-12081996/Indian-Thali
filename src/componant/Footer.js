@@ -112,7 +112,7 @@ function Fotter() {
                   <li>
                     <a href="#">About us</a>
                   </li>
-                 
+                {/* this is footer */}
                   <li>
                     <a href="#">Contact us</a>
                   </li>
