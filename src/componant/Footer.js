@@ -94,9 +94,9 @@ function Fotter() {
                   <h3>70 587 7 4217</h3>
                   <p>Give us a call</p>
                 </div>
-                {/* End Contact Info */}
+               
               </div>
-              {/* End Contact Us */}
+            
             </div>
        
           </div>
